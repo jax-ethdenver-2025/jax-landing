@@ -21,7 +21,7 @@ export default function Home() {
             <span className="text-xl font-bold text-white">jax</span>
           </div>
           <a
-            href="https://github.com"
+            href="https://github.com/jax-ethdenver-2025"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-sm hover:text-white transition-colors"
