@@ -37,7 +37,7 @@ export default function Home() {
           <div className="flex flex-col items-center space-y-6">
             <Database className="h-16 w-16 text-white" />
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-normal leading-tight text-white">
-              a permissionlessly incentivized file storage layer for Ethereum
+              the permissionlessly incentivized file storage layer for Ethereum
             </h1>
           </div>
 
